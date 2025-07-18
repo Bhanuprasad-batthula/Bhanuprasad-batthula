@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Bhanu Prasad Batthula
+### 🎓 Student at Malla Reddy Engineering College
+### 🚀 Aspiring Blockchain Developer | Web3 Enthusiast | Open Source Contributor
 
-<!--
-**Bhanuprasad-batthula/Bhanuprasad-batthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 Tech Skills
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React | Node.js
+- ⛓️ Blockchain | Solidity | Web3.js
+-  Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+- Email: bhanuprasadbatthula09@gmail.com
+
+---
+
+### 🛠️ Portfolio
+- [My Portfolio Website]( https://bhanuprasad-batthula.github.io/Portfolio/)
+
+---
+
